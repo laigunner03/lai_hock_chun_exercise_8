@@ -1,0 +1,4 @@
+#Wed Nov 03 14:48:59 MYT 2021
+base.0=/home/lai/Besquare/3-Mobile-Dev/lai_hock_chun_exercise_8/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

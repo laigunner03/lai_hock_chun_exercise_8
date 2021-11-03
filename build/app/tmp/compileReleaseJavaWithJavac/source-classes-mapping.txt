@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/lai_hock_chun_exercise_8/BuildConfig.java
+ com.example.lai_hock_chun_exercise_8.BuildConfig
